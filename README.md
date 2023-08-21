@@ -12,6 +12,21 @@ The purpose of this repository is to provide simple and practical examples of ho
 
 Before running the examples, make sure you have Node.js installed on your system.
 
+### Using Makefile (Quick)
+
+1. Open the terminal and navigate to the repository's directory.
+2. **JWT with Secret Key**: To run the first example use the following command:
+
+   ```sh
+   make demo1
+   ```
+
+3. **JWT with Public-Private Key Pair**: To run the second example, use the following command:
+
+   ```sh
+   make demo2
+   ```
+
 ### Demo 1: JWT with Secret Key
 
 1. Open the terminal and navigate to the repository's directory.
